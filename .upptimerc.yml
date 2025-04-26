@@ -5,10 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: Production
     url: https://www.exino.org
-  - name: Test
-    url: https://www.exino.dev
-  - name: Stage
-    url: https://www.ex-pilot.ir
+ # - name: Test
+ #   url: https://www.exino.dev
+#  - name: Stage
+  #  url: https://www.ex-pilot.ir
   #- name: Test Broken Site
   #  url: https://thissitedoesnotexist.koj.co
  # - name: IPv6 test
